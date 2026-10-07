@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this software release and the associated Historical Biotech Benchmark dataset."
+title: "Historical Biotech Benchmark — public reproducibility code"
+type: software
+version: 1.0.0
+authors:
+  - family-names: Cheishvili
+    given-names: David
+    orcid: "https://orcid.org/0000-0001-9136-8967"
+    affiliation: "McGill University"
+  - family-names: Cheishvili
+    given-names: Daniel
+    affiliation: "Concordia University"
+repository-code: "https://github.com/davidcheishvili/historical-biotech-benchmark"
+license: MIT
